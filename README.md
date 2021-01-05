@@ -21,11 +21,11 @@ Installing package through Google Colab, Kaggle or other cloud notebooks that al
 !pip install TinderBot 
 ```
 
-#Before you start
+## Before you start
 - Login on Tinder in your browser
 - Get your request headers key-value pairs
 - Paste them in a text file
-![](tboheaders.gif)
+![Example](tbotheaders.gif)
 
 ### Usage   
 
