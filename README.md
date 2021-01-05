@@ -25,6 +25,7 @@ Installing package through Google Colab, Kaggle or other cloud notebooks that al
 - Login on Tinder in your browser
 - Get your request headers key-value pairs
 - Paste them in a text file
+
 ![Example](tbotheaders.gif)
 
 ### Usage   
